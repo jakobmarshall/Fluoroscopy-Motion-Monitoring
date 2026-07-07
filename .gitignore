@@ -1,0 +1,11 @@
+# Ignore everything in test data
+test data/*
+
+# Keep this folder
+!test data/G100_R8_C10_50BPM_2/
+
+# Keep contents of this folder
+!test data/G100_R8_C10_50BPM_2/**
+
+# macOS files
+.DS_Store
