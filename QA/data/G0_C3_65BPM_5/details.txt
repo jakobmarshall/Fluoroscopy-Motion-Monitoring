@@ -1,1 +1,0 @@
-Data acquired at gantry 0, 3 mm cardiac motion, no respiratory motion, 65 BPM
